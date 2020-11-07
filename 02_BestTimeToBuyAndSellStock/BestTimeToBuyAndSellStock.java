@@ -12,7 +12,7 @@ public class BestTimeToBuyAndSellStock {
 
     public static void main(String[] args) {
         BestTimeToBuyAndSellStock solution = new BestTimeToBuyAndSellStock();
-        int result = solution.maxProfit(new int[]{7,1,5,3,6,4});
-        assert(result == 5);
+        assert(solution.maxProfit(new int[]{7,1,5,3,6,4}) == 5);
+        assert(solution.maxProfit(new int[]{7,6,4,3,1}) == 0);
     }
 }
