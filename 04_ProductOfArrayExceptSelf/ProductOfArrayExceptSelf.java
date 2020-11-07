@@ -26,7 +26,6 @@ public class ProductOfArrayExceptSelf {
 
     public static void main(String[] args) {
         ProductOfArrayExceptSelf solution = new ProductOfArrayExceptSelf();
-        int[] result = solution.productExceptSelf(new int[]{1,2,3,4});
-        assert(Arrays.equals(result, new int[]{24,12,8,6}));
+        assert(Arrays.equals(solution.productExceptSelf(new int[]{1,2,3,4}), new int[]{24,12,8,6}));
     }
 }
