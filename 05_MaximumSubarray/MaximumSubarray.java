@@ -12,7 +12,10 @@ public class MaximumSubarray {
 
     public static void main(String[] args) {
         MaximumSubarray solution = new MaximumSubarray();
-        int result = solution.maxSubArray(new int[]{-2,1,-3,4,-1,2,1,-5,4});
-        assert(result == 6);
+        assert(solution.maxSubArray(new int[]{-2,1,-3,4,-1,2,1,-5,4}) == 6);
+        assert(solution.maxSubArray(new int[]{1}) == 1);
+        assert(solution.maxSubArray(new int[]{0}) == 0);
+        assert(solution.maxSubArray(new int[]{-1}) == -1);
+        assert(solution.maxSubArray(new int[]{-2147483647}) == -2147483647);
     }
 }
