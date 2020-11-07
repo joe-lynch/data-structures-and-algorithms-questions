@@ -20,8 +20,6 @@ public class TwoSum {
     public static void main(String[] args){
         TwoSum solution = new TwoSum();
         int[] result = solution.twoSum(new int[]{2,7,11,15}, 9);
-        List<Integer> list = Arrays.stream(result).boxed().collect(Collectors.toList());
-
-        assert (list.equals(Arrays.asList(1,0)));
+        assert (Arrays.equals(result, new int[]{0,1}));
     }
 }
