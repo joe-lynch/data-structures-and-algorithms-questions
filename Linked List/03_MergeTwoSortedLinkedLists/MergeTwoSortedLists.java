@@ -1,5 +1,3 @@
-package LinkedList;
-
 import java.util.Arrays;
 
 public class MergeTwoSortedLists {
@@ -23,7 +21,6 @@ public class MergeTwoSortedLists {
         if(l2 != null) l3.next = l2;
 
         return ret.next;
-
     }
 
 

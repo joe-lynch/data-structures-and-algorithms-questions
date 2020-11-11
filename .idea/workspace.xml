@@ -33,7 +33,135 @@
       <recent name="C:\Users\joerd\Documents\GitHub\leetcode-questions\Linked List\05_RemoveNthNodeFromEndOfLinkedList" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TwoSum">
+    <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
+      <module name="Arrays" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClimbingStairs" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ClimbingStairs" />
+      <module name="Dynamic Programming" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinChange" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CoinChange" />
+      <module name="Dynamic Programming" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ContainerWithMostWater" />
+      <module name="Arrays" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ContainsDuplicate" />
+      <module name="Arrays" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetectCycleLinkedList" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DetectCycleLinkedList" />
+      <module name="Linked List" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LongestIncreasingSubsequence" />
+      <module name="Dynamic Programming" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumProductSubarray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MaximumProductSubarray" />
+      <module name="Arrays" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumSubarray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MaximumSubarray" />
+      <module name="Arrays" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MergeTwoSortedLists" />
+      <module name="Linked List" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumInRotatedSortedArray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MinimumInRotatedSortedArray" />
+      <module name="Arrays" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductOfArrayExceptSelf" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ProductOfArrayExceptSelf" />
+      <module name="Arrays" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveNthNodeFromEndOfLinkedList" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RemoveNthNodeFromEndOfLinkedList" />
+      <module name="Linked List" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ReverseLinkedList" />
+      <module name="Linked List" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInRotatedSortedArray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SearchInRotatedSortedArray" />
+      <module name="Arrays" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ThreeSum" />
+      <module name="Arrays" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwoSum" />
       <module name="Arrays" />
@@ -42,6 +170,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.BestTimeToBuyAndSellStock" />
+      <item itemvalue="Application.ContainsDuplicate" />
+      <item itemvalue="Application.ProductOfArrayExceptSelf" />
+      <item itemvalue="Application.MaximumSubarray" />
+      <item itemvalue="Application.MaximumProductSubarray" />
+      <item itemvalue="Application.MinimumInRotatedSortedArray" />
+      <item itemvalue="Application.SearchInRotatedSortedArray" />
+      <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.ContainerWithMostWater" />
+      <item itemvalue="Application.ClimbingStairs" />
+      <item itemvalue="Application.CoinChange" />
+      <item itemvalue="Application.LongestIncreasingSubsequence" />
+      <item itemvalue="Application.ReverseLinkedList" />
+      <item itemvalue="Application.DetectCycleLinkedList" />
+      <item itemvalue="Application.MergeTwoSortedLists" />
+      <item itemvalue="Application.RemoveNthNodeFromEndOfLinkedList" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TwoSum" />
@@ -58,7 +205,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605099184256</updated>
-      <workItem from="1605099187819" duration="713000" />
+      <workItem from="1605099187819" duration="1710000" />
     </task>
     <servers />
   </component>
@@ -66,18 +213,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605099859823">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605100898408">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605099859823" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605100898408" />
     <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605099235807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1605099235807" />
-    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605099241954">
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605100691837">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605099241954" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605100691837" />
     <state x="473" y="272" width="589" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605099599421">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -90,26 +237,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605099852670" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605099885601">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605100586830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605099885601" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605099885601">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605100586830" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605100586830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605099885601" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605099885601">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605100586830" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605100586830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605099885601" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605099885601">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605100586830" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605100586830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605099885601" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605100586830" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1605099828012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605099828012" />
+    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1605099981568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605099981568" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605099819867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

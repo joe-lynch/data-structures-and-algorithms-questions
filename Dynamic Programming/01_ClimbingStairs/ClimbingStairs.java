@@ -1,5 +1,3 @@
-package DynamicProgramming;
-
 public class ClimbingStairs {
 
     private int climbStairs(int n){
