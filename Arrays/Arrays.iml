@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01_TwoSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_BestTimeToBuyAndSellStock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_ContainsDuplicate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04_ProductOfArrayExceptSelf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05_MaximumSubarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06_MaximumProductSubarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_FindMinimumInRotatedSortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_SearchInRotatedSortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_ThreeSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_ContainerWithMostWater" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
