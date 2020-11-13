@@ -43,11 +43,15 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/) | [Solution](/Arrays/12_UnionOfArrays/FindUnion.java)
 
 ## Linked List
-1. [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) | [Solution](/LinkedList/01_ReverseLinkedList/ReverseLinkedList.java)
-2. [Detect a cycle in a linked list](https://leetcode.com/problems/linked-list-cycle/) | [Solution](/LinkedList/02_DetectCycleLinkedList/DetectCycleLinkedList.java)
-3. [Merge two sorted linked lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](/LinkedList/03_MergeTwoSortedLinkedLists/MergeTwoSortedLinkedLists)
+1. Reverse linked list\
+[Question](https://leetcode.com/problems/reverse-linked-list/) | [Solution](/LinkedList/01_ReverseLinkedList/ReverseLinkedList.java)
+2. Detect a cycle in a linked list\
+[Question](https://leetcode.com/problems/linked-list-cycle/) | [Solution](/LinkedList/02_DetectCycleLinkedList/DetectCycleLinkedList.java)
+3. Merge two sorted linked lists\
+[Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](/LinkedList/03_MergeTwoSortedLinkedLists/MergeTwoSortedLinkedLists)
 4. [in progress]
-5. [Remove the nth node from the end of a linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/LinkedList/05_RemoveNthNodeFromEndOfLinkedList/RemoveNthNodeFromEndOfLinkedList.java)
+5. Remove the nth node from the end of a linked list\
+[Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/LinkedList/05_RemoveNthNodeFromEndOfLinkedList/RemoveNthNodeFromEndOfLinkedList.java)
 
 ## Dynamic Programming
 1. [Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
