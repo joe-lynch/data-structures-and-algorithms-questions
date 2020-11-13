@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/08_SearchInRotatedSortedArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09_ThreeSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10_ContainerWithMostWater" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_UnionOfArrays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Graph/04_NumberOfIslands/NumberOfIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/11_UnionOfArrays/FindUnion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <recent name="C:\Users\joerd\Documents\GitHub\leetcode-questions\Linked List\05_RemoveNthNodeFromEndOfLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberOfIslands">
+  <component name="RunManager" selected="Application.FindUnion">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
       <module name="Arrays" />
@@ -118,6 +118,14 @@
     <configuration name="DetectCycleLinkedList" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="DetectCycleLinkedList" />
       <module name="Linked List" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindUnion" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FindUnion" />
+      <module name="Arrays" />
       <option name="VM_PARAMETERS" value="-ea" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -238,6 +246,7 @@
       <item itemvalue="Application.RemoveNthNodeFromEndOfLinkedList" />
       <item itemvalue="Application.DecodeWays" />
       <item itemvalue="Application.NumberOfIslands" />
+      <item itemvalue="Application.FindUnion" />
       <item itemvalue="Application.TwoSum" />
     </list>
     <recent_temporary>
@@ -259,6 +268,7 @@
       <workItem from="1605099187819" duration="2601000" />
       <workItem from="1605192101653" duration="26000" />
       <workItem from="1605271758952" duration="7132000" />
+      <workItem from="1605288597906" duration="2564000" />
     </task>
     <servers />
   </component>
@@ -266,14 +276,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="485" y="71" key="#FindUnion" timestamp="1605289903816">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="71" key="#FindUnion/0.0.1536.824@0.0.1536.824" timestamp="1605289903816" />
     <state x="361" y="71" key="#Project_Structure" timestamp="1605276874199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1605276874199" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605277977606">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605289874922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605277977606" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605289874922" />
     <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605099235807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -294,22 +308,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605276859248" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605279299176">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605290950729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605279299176" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605279299175">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605290950729" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605290950729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605279299175" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605279299175">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605290950729" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605290950729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605279299175" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605279299175">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605290950729" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605290950729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605279299175" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605290950729" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605276537201">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -334,14 +348,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605099981568" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1605192101517">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1605288610707">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605192101517" />
-    <state x="499" y="192" key="extract.method.dialog" timestamp="1605274623058">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605288610707" />
+    <state x="499" y="192" key="extract.method.dialog" timestamp="1605290776505">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="192" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1605274623058" />
+    <state x="499" y="192" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1605290776505" />
     <state x="209" y="33" key="new project wizard" timestamp="1605276863324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
