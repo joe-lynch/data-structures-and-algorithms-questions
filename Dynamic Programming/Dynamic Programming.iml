@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/01_ClimbingStairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02_CoinChange" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03_LongestIncreasingSubsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04_DecodeWays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
