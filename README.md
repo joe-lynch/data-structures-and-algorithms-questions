@@ -16,6 +16,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 8. [Search in rotated and sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 9. [Three Sum](https://leetcode.com/problems/3sum/)
 10. [Container with most water](https://leetcode.com/problems/container-with-most-water/)
+11. [Intersection of Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+12. [Union of Arrays](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/)
 
 ## Linked List
 1. [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/)
