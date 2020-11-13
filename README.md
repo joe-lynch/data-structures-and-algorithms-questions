@@ -11,16 +11,36 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 
 2. Best time to buy and sell stock\
 [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](/Arrays/02_BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java)
-3. [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](/Arrays/03_ContainsDuplicate/ContainsDuplicate.java)
-4. [Product of array except for self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](/Arrays/04_ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java)
-5. [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](/Arrays/05_MaximumSubarray/MaximumSubarray.java)
-6. [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/)
-7. [Find minimum in rotated and sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-8. [Search in rotated and sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-9. [Three Sum](https://leetcode.com/problems/3sum/)
-10. [Container with most water](https://leetcode.com/problems/container-with-most-water/)
-11. [Intersection of Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-12. [Union of Arrays](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/)
+
+3. Contains Duplicate\
+[Question](https://leetcode.com/problems/contains-duplicate/) | [Solution](/Arrays/03_ContainsDuplicate/ContainsDuplicate.java)
+
+4. Product of array except for self\
+[Question](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](/Arrays/04_ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java)
+
+5. Maximum subarray\
+[Question](https://leetcode.com/problems/maximum-subarray/) | [Solution](/Arrays/05_MaximumSubarray/MaximumSubarray.java)
+
+6. Maximum product subarray\
+[Question](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](/Arrays/06_MaximumProductSubarray/MaximumProductSubarray.java)
+
+7. Find minimum in rotated and sorted array\
+[Question](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+8. Search in rotated and sorted array\
+[Question](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+9. Three Sum\
+[Question](https://leetcode.com/problems/3sum/)
+
+10. Container with most water\
+[Question](https://leetcode.com/problems/container-with-most-water/)
+
+11. Intersection of Arrays\
+[Question](https://leetcode.com/problems/intersection-of-two-arrays/)
+
+12. Union of Arrays\
+[Question](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/)
 
 ## Linked List
 1. [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/)
