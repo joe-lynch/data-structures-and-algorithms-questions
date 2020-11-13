@@ -1,4 +1,4 @@
-# leetcode-questionsnable assertions
+# leetcode-questions
 Worked solutions to various leetcode questions that I find interesting.
 
 Each question is treated as a standalone class, except for the LinkedList questions that all use the class ListNode.
