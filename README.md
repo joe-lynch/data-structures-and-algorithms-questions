@@ -45,11 +45,15 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 ## Linked List
 1. Reverse linked list\
 [Question](https://leetcode.com/problems/reverse-linked-list/) | [Solution](/LinkedList/01_ReverseLinkedList/ReverseLinkedList.java)
+
 2. Detect a cycle in a linked list\
 [Question](https://leetcode.com/problems/linked-list-cycle/) | [Solution](/LinkedList/02_DetectCycleLinkedList/DetectCycleLinkedList.java)
+
 3. Merge two sorted linked lists\
 [Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](/LinkedList/03_MergeTwoSortedLinkedLists/MergeTwoSortedLinkedLists)
+
 4. [in progress]
+
 5. Remove the nth node from the end of a linked list\
 [Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/LinkedList/05_RemoveNthNodeFromEndOfLinkedList/RemoveNthNodeFromEndOfLinkedList.java)
 
@@ -61,7 +65,11 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 
 ## Graph
 1. [in progress]
+
 2. [in progress]
+
 3. [in progress]
-4. [Number of islands](https://leetcode.com/problems/number-of-islands/)
+
+4. Number of islands\
+[Question](https://leetcode.com/problems/number-of-islands/) | [Solution](/Graph/04_NumberOfIslands/NumberOfIslands.java)
 
