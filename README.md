@@ -58,10 +58,17 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/LinkedList/05_RemoveNthNodeFromEndOfLinkedList/RemoveNthNodeFromEndOfLinkedList.java)
 
 ## Dynamic Programming
-1. [Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
-2. [Coin change](https://leetcode.com/problems/coin-change/)
-3. [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-4. [Decode ways](https://leetcode.com/problems/decode-ways/)
+1. Climbing stairs
+[Question](https://leetcode.com/problems/climbing-stairs/) | [Solution](/DynamicProgramming/01_ClimbingStairs/ClimbingStairs.java)
+
+2. Coin change
+[Question](https://leetcode.com/problems/coin-change/) | [Solution](/DynamicProgramming/02_CoinChange/CoinChange.java)
+
+3. Longest increasing subsequence
+[Question](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](/DynamicProgramming/03_LongestIncreasingSubsequence/LongestIncreasingSubsequence.java)
+
+4. Decode ways
+[Question](https://leetcode.com/problems/decode-ways/) | [Solution](/DynamicProgramming/04_DecodeWays/DecodeWays.java)
 
 ## Graph
 1. [in progress]
