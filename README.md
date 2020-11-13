@@ -28,8 +28,7 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](/Arrays/07_FindMinimumInRotatedSortedArray/MinimumInRotatedSortedArray.java)
 
 8. Search in rotated and sorted array\
-[Question](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](/Arrays/08_SearchInRotatedSortedArray
-reordered hierarchy/SearchInRotatedSortedArray.java)
+[Question](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](/Arrays/08_SearchInRotatedSortedArray/SearchInRotatedSortedArray.java)
 
 9. Three Sum\
 [Question](https://leetcode.com/problems/3sum/) | [Solution](/Arrays/09_ThreeSum/ThreeSum.java)
