@@ -21,7 +21,7 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 1. Reverse linked list.
 2. Detect a cycle in a linked list.
 3. Merge two sorted linked lists.
-4. -
+4. 
 5. Remove the nth node from the end of a linked list.
 
 ## Dynamic Programming
@@ -31,8 +31,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 4. Decode ways.
 
 ## Graph
-1. -
-2. -
-3. -
+1. 
+2. 
+3. 
 4. Number of islands.
 
