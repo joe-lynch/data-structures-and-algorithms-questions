@@ -86,8 +86,13 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/Tree/01_MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)
 
 ## String
+1. String Repeater\
+[Solution](/String/01_StringRepeater/StringRepeater.java)
+
+2. String Stack\
+[Solution](/String/02_StringStack/StringStack.java)
 
 ## Sort
-1. Sorter class that provides sorting methods for Contact objects\
+1. Sorter class that provides various sorting methods for Contact objects\
 [Solution](/Sort/01_ContactSorter/)
 
