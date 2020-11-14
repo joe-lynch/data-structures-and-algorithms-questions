@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="added clone graph">
-      <change afterPath="$PROJECT_DIR$/String/08_ValidParentheses/ValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/07_GroupAnagrams/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/07_GroupAnagrams/GroupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/String.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String/String.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/String/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/String/GroupAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/08_ValidParentheses/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/08_ValidParentheses/ValidParentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -372,7 +368,7 @@
       <workItem from="1605192101653" duration="26000" />
       <workItem from="1605271758952" duration="7132000" />
       <workItem from="1605288597906" duration="6889000" />
-      <workItem from="1605362101436" duration="16016000" />
+      <workItem from="1605362101436" duration="16267000" />
     </task>
     <task id="LOCAL-00001" summary="added clone graph">
       <created>1605366464997</created>

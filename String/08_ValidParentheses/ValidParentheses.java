@@ -1,9 +1,12 @@
+import java.util.ArrayDeque;
+import java.util.Deque;
+import java.util.Queue;
 import java.util.Stack;
 
 public class ValidParentheses {
 
     private boolean isValid(String s) {
-        Stack<Character> st = new Stack<>();
+        Deque<Character> st = new ArrayDeque<>();
         for (char c : s.toCharArray()) {
             if (!st.isEmpty() && c == ']' && st.peek() == '['){
                 st.pop();
