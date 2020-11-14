@@ -29,7 +29,6 @@ public class GroupAnagrams {
             }
             sb.append("], ");
         }
-
         assert(sb.toString().equals("[eat, tea, ate, ], [bat, ], [tan, nat, ], "));
     }
 }
