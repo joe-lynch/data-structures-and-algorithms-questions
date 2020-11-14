@@ -108,6 +108,9 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 8. Valid Parentheses\
 [Question](http://leetcode.com/problems/valid-parentheses) | [Solution](/String/08_ValidParentheses/ValidParentheses.java)
 
+9. Valid Palindrome\
+[Question](http://leetcode.com/problems/valid-palindrome) | [Solution](/String/09_ValidPalindrome/ValidPalindrome.java)
+
 
 ## Sort
 1. Sorter class that provides various sorting methods for Contact objects\
