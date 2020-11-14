@@ -114,6 +114,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 10. Longest Palindromic Substring\
 [Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](/String/10_LongestPalindromicSubstring/LongestPalindromicSubstring.java)
 
+11. Count Palindromic Substrings/
+[Question](https://leetcode.com/problems/palindromic-substrings/) | [Solution](/String/11_CountPalindromicSubstrings/CountPalindromicSubstrings.java)
 
 ## Sort
 1. Sorter class that provides various sorting methods for Contact objects\
