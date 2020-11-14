@@ -111,6 +111,9 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 9. Valid Palindrome\
 [Question](http://leetcode.com/problems/valid-palindrome) | [Solution](/String/09_ValidPalindrome/ValidPalindrome.java)
 
+10. Longest Palindromic Substring\
+[Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](/String/10_LongestPalindromicSubstring/LongestPalindromicSubstring.java)
+
 
 ## Sort
 1. Sorter class that provides various sorting methods for Contact objects\
