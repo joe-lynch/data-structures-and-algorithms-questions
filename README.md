@@ -102,6 +102,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 6. Valid Anagram\
 [Question](https://leetcode.com/problems/valid-anagram/) | [Solution](/String/06_ValidAnagram/ValidAnagram.java)
 
+7. Group Anagrams\
+[Question](https://leetcode.com/problems/group-anagrams/) | [Solution](/String/07_GroupAnagrams/GroupAnagrams.java)
 
 
 ## Sort
