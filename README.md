@@ -81,3 +81,6 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 4. Number of islands\
 [Question](https://leetcode.com/problems/number-of-islands/) | [Solution](/Graph/04_NumberOfIslands/NumberOfIslands.java)
 
+## Tree
+1. Maximum Depth of Binary Tree\
+[Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/Tree/01_MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)
