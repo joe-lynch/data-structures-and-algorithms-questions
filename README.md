@@ -10,15 +10,15 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/two-sum/) | [Solution](/Arrays/01_TwoSum/TwoSum.java)
 2. Best time to buy and sell stock: [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](/Arrays/02_BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java)
 3. Contains Duplicate:
-[Question](https://leetcode.com/problems/contains-duplicate/) | [Solution](/Arrays/03_ContainsDuplicate/ContainsDuplicate.java)\
+[Question](https://leetcode.com/problems/contains-duplicate/) | [Solution](/Arrays/03_ContainsDuplicate/ContainsDuplicate.java)
 4. Product of array except for self
-[Question](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](/Arrays/04_ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java)\
+[Question](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](/Arrays/04_ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java)
 5. Maximum subarray:
 [Question](https://leetcode.com/problems/maximum-subarray/) | [Solution](/Arrays/05_MaximumSubarray/MaximumSubarray.java)
 6. Maximum product subarray:
-[Question](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](/Arrays/06_MaximumProductSubarray/MaximumProductSubarray.java)\
+[Question](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](/Arrays/06_MaximumProductSubarray/MaximumProductSubarray.java)
 7. Find minimum in rotated and sorted array:
-[Question](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](/Arrays/07_FindMinimumInRotatedSortedArray/MinimumInRotatedSortedArray.java)\
+[Question](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](/Arrays/07_FindMinimumInRotatedSortedArray/MinimumInRotatedSortedArray.java)
 8. Search in rotated and sorted array:
 [Question](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](/Arrays/08_SearchInRotatedSortedArray/SearchInRotatedSortedArray.java)
 9. Three Sum:
@@ -31,78 +31,64 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/) | [Solution](/Arrays/12_UnionOfArrays/FindUnion.java)
 
 ## Linked List
-1. Reverse linked list\
+1. Reverse linked list:
 [Question](https://leetcode.com/problems/reverse-linked-list/) | [Solution](/LinkedList/01_ReverseLinkedList/ReverseLinkedList.java)
-
-2. Detect a cycle in a linked list\
+2. Detect a cycle in a linked list:
 [Question](https://leetcode.com/problems/linked-list-cycle/) | [Solution](/LinkedList/02_DetectCycleLinkedList/DetectCycleLinkedList.java)
-
-3. Merge two sorted linked lists\
+3. Merge two sorted linked lists:
 [Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](/LinkedList/03_MergeTwoSortedLinkedLists/MergeTwoSortedLists.java)
-
 4. [in progress]
-
-5. Remove the nth node from the end of a linked list\
+5. Remove the nth node from the end of a linked list:
 [Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/LinkedList/05_RemoveNthNodeFromEndOfLinkedList/RemoveNthNodeFromEndOfLinkedList.java)
 
 ## Dynamic Programming
-1. Climbing stairs\
+1. Climbing stairs:
 [Question](https://leetcode.com/problems/climbing-stairs/) | [Solution](/DynamicProgramming/01_ClimbingStairs/ClimbingStairs.java)
-
-2. Coin change\
+2. Coin change:
 [Question](https://leetcode.com/problems/coin-change/) | [Solution](/DynamicProgramming/02_CoinChange/CoinChange.java)
-
-3. Longest increasing subsequence\
+3. Longest increasing subsequence:
 [Question](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](/DynamicProgramming/03_LongestIncreasingSubsequence/LongestIncreasingSubsequence.java)
-
-4. Decode ways\
+4. Decode ways:
 [Question](https://leetcode.com/problems/decode-ways/) | [Solution](/DynamicProgramming/04_DecodeWays/DecodeWays.java)
 
 ## Graph
-1. Clone Graph\
+1. Clone Graph:
 [Question](https://leetcode.com/problems/clone-graph/) | [Solution](/Graph/01_CloneGraph/CloneGraph.java)
 
 2. [in progress]
 
 3. [in progress]
 
-4. Number of islands\
+4. Number of islands:
 [Question](https://leetcode.com/problems/number-of-islands/) | [Solution](/Graph/04_NumberOfIslands/NumberOfIslands.java)
 
 ## Tree
-1. Maximum Depth of Binary Tree\
+1. Maximum Depth of Binary Tree:
 [Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/Tree/01_MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)
 
 ## String
-1. String Repeater\
+1. String Repeater:
 [Solution](/String/01_StringRepeater/StringRepeater.java)
-
-2. String Stack\
+2. String Stack:
 [Solution](/String/02_StringStack/StringStack.java)
-
-3. Longest Substring Without Repeating Characters\
+3. Longest Substring Without Repeating Characters:
 [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](/String/03_LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)
 
 4. [in progress]
 
 5. [in progress]
 
-6. Valid Anagram\
+6. Valid Anagram:
 [Question](https://leetcode.com/problems/valid-anagram/) | [Solution](/String/06_ValidAnagram/ValidAnagram.java)
-
-7. Group Anagrams\
+7. Group Anagrams:
 [Question](https://leetcode.com/problems/group-anagrams/) | [Solution](/String/07_GroupAnagrams/GroupAnagrams.java)
-
-8. Valid Parentheses\
+8. Valid Parentheses:
 [Question](http://leetcode.com/problems/valid-parentheses) | [Solution](/String/08_ValidParentheses/ValidParentheses.java)
-
-9. Valid Palindrome\
+9. Valid Palindrome:
 [Question](http://leetcode.com/problems/valid-palindrome) | [Solution](/String/09_ValidPalindrome/ValidPalindrome.java)
-
-10. Longest Palindromic Substring\
+10. Longest Palindromic Substring:
 [Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](/String/10_LongestPalindromicSubstring/LongestPalindromicSubstring.java)
-
-11. Count Palindromic Substrings\
+11. Count Palindromic Substrings:
 [Question](https://leetcode.com/problems/palindromic-substrings/) | [Solution](/String/11_CountPalindromicSubstrings/CountPalindromicSubstrings.java)
 
 ## Sort
