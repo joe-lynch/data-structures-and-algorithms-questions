@@ -88,7 +88,6 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 ## String
 
 ## Sort
-1. Contact Class Sorter\
-<ins>Question:</ins> Create a class that provides various sorting methods for simple Contact objects with first name and last name fields.\
+1. Sorter class that provides sorting methods for Contact objects\
 [Solution](/Sort/01_ContactSorter/)
 
