@@ -12,7 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/08_ValidParentheses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09_ValidPalindrome" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10_LongestPalindromicSubstring" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/CountPalindromicSubstrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_CountPalindromicSubstrings" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
