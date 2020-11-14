@@ -6,11 +6,9 @@ Each file has a single class, with a main function that creates the object of th
 The keyword `assert` is used, this will throw an error if the solution returned isn't as expected. But it will only do so when the code is compiled with the `-enableassertions` or `-ea` flag.
 
 ## Arrays
-1. Two Sum\
-[Question](https://leetcode.com/problems/two-sum/) | [Solution](/Arrays/01_TwoSum/TwoSum.java)
+1. Two Sum: [Question](https://leetcode.com/problems/two-sum/) | [Solution](/Arrays/01_TwoSum/TwoSum.java)
 
-2. Best time to buy and sell stock\
-[Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](/Arrays/02_BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java)
+2. Best time to buy and sell stock: [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](/Arrays/02_BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java)
 
 3. Contains Duplicate\
 [Question](https://leetcode.com/problems/contains-duplicate/) | [Solution](/Arrays/03_ContainsDuplicate/ContainsDuplicate.java)
