@@ -7,32 +7,27 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 
 ## Arrays
 1. Two Sum:
-[Question](https://leetcode.com/problems/two-sum/) | [Solution](/Arrays/01_TwoSum/TwoSum.java)\
-2. Best time to buy and sell stock: [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](/Arrays/02_BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java)\
+[Question](https://leetcode.com/problems/two-sum/) | [Solution](/Arrays/01_TwoSum/TwoSum.java)
+2. Best time to buy and sell stock: [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](/Arrays/02_BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java)
 3. Contains Duplicate:
 [Question](https://leetcode.com/problems/contains-duplicate/) | [Solution](/Arrays/03_ContainsDuplicate/ContainsDuplicate.java)\
-4. Product of array except for self\
+4. Product of array except for self
 [Question](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](/Arrays/04_ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java)\
 5. Maximum subarray:
-[Question](https://leetcode.com/problems/maximum-subarray/) | [Solution](/Arrays/05_MaximumSubarray/MaximumSubarray.java)\
+[Question](https://leetcode.com/problems/maximum-subarray/) | [Solution](/Arrays/05_MaximumSubarray/MaximumSubarray.java)
 6. Maximum product subarray:
 [Question](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](/Arrays/06_MaximumProductSubarray/MaximumProductSubarray.java)\
 7. Find minimum in rotated and sorted array:
 [Question](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](/Arrays/07_FindMinimumInRotatedSortedArray/MinimumInRotatedSortedArray.java)\
-
-8. Search in rotated and sorted array\
+8. Search in rotated and sorted array:
 [Question](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](/Arrays/08_SearchInRotatedSortedArray/SearchInRotatedSortedArray.java)
-
-9. Three Sum\
+9. Three Sum:
 [Question](https://leetcode.com/problems/3sum/) | [Solution](/Arrays/09_ThreeSum/ThreeSum.java)
-
-10. Container with most water\
+10. Container with most water:
 [Question](https://leetcode.com/problems/container-with-most-water/) | [Solution](/Arrays/10_ContainerWithMostWater/ContainerWithMostWater.java)
-
-11. Intersection of Arrays\
+11. Intersection of Arrays:
 [Question](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](/Arrays/11_IntersectionOfArrays/FindIntersection.java)
-
-12. Union of Arrays\
+12. Union of Arrays:
 [Question](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/) | [Solution](/Arrays/12_UnionOfArrays/FindUnion.java)
 
 ## Linked List
