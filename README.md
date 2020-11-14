@@ -89,5 +89,6 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 
 ## Sort
 1. Contact Class Sorter\
-Question: Create a class that provides various sorting methods for simple Contact objects with first name and last name fields. | [Solution](/Sort/01_ContactSorter/)
+<ins>Question:<\ins> Create a class that provides various sorting methods for simple Contact objects with first name and last name fields.\
+[Solution](/Sort/01_ContactSorter/)
 
