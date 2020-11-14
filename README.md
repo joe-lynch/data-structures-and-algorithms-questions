@@ -1,5 +1,5 @@
-# data structure and algorithm questions
-Worked solutions to various leetcode questions that I find interesting.
+# data structures and algorithm questions
+Worked solutions to various data structures and algorithms questions that I find interesting from leetcode and various sources.
 
 Each question is treated as a standalone class, except for the LinkedList questions that all use the class ListNode.
 Each file has a single class, with a main function that creates the object of that class, and calls methods to solve the problem.
