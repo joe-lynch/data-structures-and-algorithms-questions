@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/02_StringStack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03_LongestSubstringWithoutRepeatingCharacters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06_ValidAnagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_GroupAnagrams" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
