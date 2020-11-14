@@ -95,6 +95,15 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 3. Longest Substring Without Repeating Characters\
 [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](/String/03_LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)
 
+4. [in progress]
+
+5. [in progress]
+
+6. Valid Anagram\
+[Question](https://leetcode.com/problems/valid-anagram/) | [Solution](/String/06_ValidAnagram/ValidAnagram.java)
+
+
+
 ## Sort
 1. Sorter class that provides various sorting methods for Contact objects\
 [Solution](/Sort/01_ContactSorter/)
