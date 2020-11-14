@@ -1,4 +1,4 @@
-# data structures and algorithm questions
+# data structures and algorithms questions
 Worked solutions to various data structures and algorithms questions that I find interesting from leetcode and various sources.
 
 Each question is treated as a standalone class, except for the LinkedList questions that all use the class ListNode.
