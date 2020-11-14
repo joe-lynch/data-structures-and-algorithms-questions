@@ -50,7 +50,7 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/linked-list-cycle/) | [Solution](/LinkedList/02_DetectCycleLinkedList/DetectCycleLinkedList.java)
 
 3. Merge two sorted linked lists\
-[Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](/LinkedList/03_MergeTwoSortedLinkedLists/MergeTwoSortedLinkedLists)
+[Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](/LinkedList/03_MergeTwoSortedLinkedLists/MergeTwoSortedLists.java)
 
 4. [in progress]
 
@@ -65,7 +65,7 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/coin-change/) | [Solution](/DynamicProgramming/02_CoinChange/CoinChange.java)
 
 3. Longest increasing subsequence\
-[Question](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](/"DynamicProgramming"/03_LongestIncreasingSubsequence/LongestIncreasingSubsequence.java)
+[Question](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](/DynamicProgramming/03_LongestIncreasingSubsequence/LongestIncreasingSubsequence.java)
 
 4. Decode ways\
 [Question](https://leetcode.com/problems/decode-ways/) | [Solution](/DynamicProgramming/04_DecodeWays/DecodeWays.java)
