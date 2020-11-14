@@ -1,6 +1,6 @@
 public class CountPalindromicSubstrings {
 
-    private int countSubstring(String s){
+    private int countSubstrings(String s){
         if(s.length() == 1)
             return 1;
         int result = 0;
@@ -23,7 +23,7 @@ public class CountPalindromicSubstrings {
 
     public static void main(String[] args) {
         CountPalindromicSubstrings solution = new CountPalindromicSubstrings();
-        assert(solution.countSubstring("abc") == 3);
-        assert(solution.countSubstring("aaa") == 6);
+        assert(solution.countSubstrings("abc") == 3);
+        assert(solution.countSubstrings("aaa") == 6);
     }
 }
