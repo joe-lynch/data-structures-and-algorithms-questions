@@ -86,4 +86,25 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/Tree/01_MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)
 
 ## String
+1. String Repeater\
+[Solution](/String/01_StringRepeater/StringRepeater.java)
+
+2. String Stack\
+[Solution](/String/02_StringStack/StringStack.java)
+
+3. Longest Substring Without Repeating Characters\
+[Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](/String/03_LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)
+
+4. [in progress]
+
+5. [in progress]
+
+6. Valid Anagram\
+[Question](https://leetcode.com/problems/valid-anagram/) | [Solution](/String/06_ValidAnagram/ValidAnagram.java)
+
+
+
+## Sort
+1. Sorter class that provides various sorting methods for Contact objects\
+[Solution](/Sort/01_ContactSorter/)
 
