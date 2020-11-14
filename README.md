@@ -54,11 +54,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 ## Graph
 1. Clone Graph:
 [Question](https://leetcode.com/problems/clone-graph/) | [Solution](/Graph/01_CloneGraph/CloneGraph.java)
-
 2. [in progress]
-
 3. [in progress]
-
 4. Number of islands:
 [Question](https://leetcode.com/problems/number-of-islands/) | [Solution](/Graph/04_NumberOfIslands/NumberOfIslands.java)
 
