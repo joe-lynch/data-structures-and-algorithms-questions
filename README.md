@@ -1,5 +1,5 @@
-# data structure and algorithm questions
-Worked solutions to various leetcode questions that I find interesting.
+# data structures and algorithm questions
+Worked solutions to various data structures and algorithms questions that I find interesting from leetcode and various sources.
 
 Each question is treated as a standalone class, except for the LinkedList questions that all use the class ListNode.
 Each file has a single class, with a main function that creates the object of that class, and calls methods to solve the problem.
@@ -80,4 +80,10 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 
 4. Number of islands\
 [Question](https://leetcode.com/problems/number-of-islands/) | [Solution](/Graph/04_NumberOfIslands/NumberOfIslands.java)
+
+## Tree
+1. Maximum Depth of Binary Tree\
+[Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/Tree/01_MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)
+
+## String
 
