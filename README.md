@@ -92,6 +92,9 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 2. String Stack\
 [Solution](/String/02_StringStack/StringStack.java)
 
+3. Longest Substring Without Repeating Characters\
+[Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](/String/03_LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)
+
 ## Sort
 1. Sorter class that provides various sorting methods for Contact objects\
 [Solution](/Sort/01_ContactSorter/)
