@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="added clone graph" />
+    <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="added clone graph">
+      <change afterPath="$PROJECT_DIR$/String/04_LongestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/String.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String/String.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +66,7 @@
       <recent name="C:\Users\joerd\Documents\GitHub\leetcode-questions\Linked List\05_RemoveNthNodeFromEndOfLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinimumWindowSubstring">
+  <component name="RunManager" selected="Application.LongestRepeatingCharacterReplacement">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
       <module name="Arrays" />
@@ -161,6 +165,14 @@
     </configuration>
     <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="LongestPalindromicSubstring" />
+      <module name="String" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestRepeatingCharacterReplacement" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LongestRepeatingCharacterReplacement" />
       <module name="String" />
       <option name="VM_PARAMETERS" value="-ea" />
       <method v="2">
@@ -341,6 +353,7 @@
       <item itemvalue="Application.CountPalindromicSubstrings" />
       <item itemvalue="Application.SameTree" />
       <item itemvalue="Application.MinimumWindowSubstring" />
+      <item itemvalue="Application.LongestRepeatingCharacterReplacement" />
       <item itemvalue="Application.ValidAnagram" />
       <item itemvalue="Application.TwoSum" />
     </list>
@@ -365,7 +378,7 @@
       <workItem from="1605271758952" duration="7132000" />
       <workItem from="1605288597906" duration="6889000" />
       <workItem from="1605362101436" duration="22521000" />
-      <workItem from="1605447862610" duration="4586000" />
+      <workItem from="1605447862610" duration="5543000" />
     </task>
     <task id="LOCAL-00001" summary="added clone graph">
       <created>1605366464997</created>
@@ -393,18 +406,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1605362258784" />
-    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605452184927">
+    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605453686236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605452184927" />
+    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605453686236" />
     <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605099235807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1605099235807" />
-    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605100691837">
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605453649055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605100691837" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605453649055" />
     <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1605362396166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -425,22 +438,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605362256854" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605452215460">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605453693249">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605452215460" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605452215460">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605453693249" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605453693248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605452215460" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605452215460">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605453693248" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605453693248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605452215460" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605452215460">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605453693248" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605453693249">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605452215460" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605453693249" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605451621863">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -481,10 +494,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605449245281" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605448380781">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605453676327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605448380781" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605453676327" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

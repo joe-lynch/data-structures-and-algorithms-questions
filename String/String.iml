@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/11_CountPalindromicSubstrings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04_MinimumWindowSubstring" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_MinimumWindowSubstring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04_LongestRepeatingCharacterReplacement" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
