@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="added clone graph">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/joerd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/04_MinimumWindowSubstring/MinimumWindowSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/String.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String/String.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/02_SameTree/SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/02_SameTree/SameTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/META-INF/Arrays.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Graph/CloneGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Graph/CloneGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Graph/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Graph/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/String/CountPalindromicSubstrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/String/CountPalindromicSubstrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tree/SameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tree/SameTree.class" afterDir="false" />
-    </list>
+    <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="added clone graph" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -376,7 +365,7 @@
       <workItem from="1605271758952" duration="7132000" />
       <workItem from="1605288597906" duration="6889000" />
       <workItem from="1605362101436" duration="22521000" />
-      <workItem from="1605447862610" duration="4326000" />
+      <workItem from="1605447862610" duration="4586000" />
     </task>
     <task id="LOCAL-00001" summary="added clone graph">
       <created>1605366464997</created>
