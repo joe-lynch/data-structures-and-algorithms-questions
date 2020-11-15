@@ -48,14 +48,14 @@ public class SameTree {
 
     public static void main(String[] args) {
         SameTree solution = new SameTree();
-        
+
         assert(solution.isSameTree(TreeNode.deserialize("1,2,3"), TreeNode.deserialize("1,2,3"), DFS));
         assert(solution.isSameTree(TreeNode.deserialize("1,2,3"), TreeNode.deserialize("1,2,3"), BFS));
 
         assert(!solution.isSameTree(TreeNode.deserialize("1,2"), TreeNode.deserialize("1,null,2"), DFS));
         assert(!solution.isSameTree(TreeNode.deserialize("1,2"), TreeNode.deserialize("1,null,2"), BFS));
 
-        assert(!solution.isSameTree(TreeNode.deserialize("1,2,1"), TreeNode.deserialize("1,1,2"), BFS));
+        assert(!solution.isSameTree(TreeNode.deserialize("1,2,1"), TreeNode.deserialize("1,1,2"), DFS));
         assert(!solution.isSameTree(TreeNode.deserialize("1,2,1"), TreeNode.deserialize("1,1,2"), BFS));
     }
 }
