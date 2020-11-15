@@ -37,9 +37,12 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/linked-list-cycle/) | [Solution](/LinkedList/02_DetectCycleLinkedList/DetectCycleLinkedList.java)
 3. Merge two sorted linked lists:
 [Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](/LinkedList/03_MergeTwoSortedLinkedLists/MergeTwoSortedLists.java)
-4. [in progress]
+4. Merge K sorted linked lists:
+[Question](https://leetcode.com/problems/merge-k-sorted-lists/) | [in progress]
 5. Remove the nth node from the end of a linked list:
 [Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/LinkedList/05_RemoveNthNodeFromEndOfLinkedList/RemoveNthNodeFromEndOfLinkedList.java)
+6. Reorder List:
+[Question](https://leetcode.com/problems/reorder-list/) | [in progress]
 
 ## Dynamic Programming
 1. Climbing stairs:
@@ -54,8 +57,10 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 ## Graph
 1. Clone Graph:
 [Question](https://leetcode.com/problems/clone-graph/) | [Solution](/Graph/01_CloneGraph/CloneGraph.java)
-2. [in progress]
-3. [in progress]
+2. Course Schedule:
+[Question](https://leetcode.com/problems/course-schedule/) | [in progress]
+3. Pacific Atlantic Water Flow:
+[Question](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [in progress]
 4. Number of islands:
 [Question](https://leetcode.com/problems/number-of-islands/) | [Solution](/Graph/04_NumberOfIslands/NumberOfIslands.java)
 
