@@ -62,6 +62,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 ## Tree
 1. Maximum Depth of Binary Tree:
 [Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/Tree/01_MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)
+2. Same Tree:
+[Question](https://leetcode.com/problems/same-tree/) | [Solution](/Tree/02_SameTree/SameTree.java)
 
 ## String
 1. String Repeater:
@@ -70,7 +72,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Solution](/String/02_StringStack/StringStack.java)
 3. Longest Substring Without Repeating Characters:
 [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](/String/03_LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)
-4. [in progress]
+4. Minimum Window Substring\
+[Question](https://leetcode.com/problems/minimum-window-substring/) | [Solution](/String/04_MinimumWindowSubstring/04_MinimumWindowSubstring.java)
 5. [in progress]
 6. Valid Anagram:
 [Question](https://leetcode.com/problems/valid-anagram/) | [Solution](/String/06_ValidAnagram/ValidAnagram.java)
