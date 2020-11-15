@@ -73,7 +73,7 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 3. Longest Substring Without Repeating Characters:
 [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](/String/03_LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)
 4. Longest Repeating Character Replacement:
-[Question](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](/String/06_LongestRepeatingCharacterReplacement/LongestRpeatingCharacterReplace.java)
+[Question](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](/String/04_LongestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.java)
 5. Minimum Window Substring:
 [Question](https://leetcode.com/problems/minimum-window-substring/) | [Solution](/String/05_MinimumWindowSubstring/MinimumWindowSubstring.java)
 6. Valid Anagram:
