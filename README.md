@@ -95,6 +95,5 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/palindromic-substrings/) | [Solution](/String/11_CountPalindromicSubstrings/CountPalindromicSubstrings.java)
 
 ## Sort
-1. Sorter class that provides various sorting methods for Contact objects\
-[Solution](/Sort/01_ContactSorter/)
+1. Sorter class that provides various sorting methods for objects of the Contact class: [Solution](/Sort/01_ContactSorter/)
 
