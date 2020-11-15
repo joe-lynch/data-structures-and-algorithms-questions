@@ -72,9 +72,9 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Solution](/String/02_StringStack/StringStack.java)
 3. Longest Substring Without Repeating Characters:
 [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](/String/03_LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)
-4. Minimum Window Substring
-[Question](https://leetcode.com/problems/minimum-window-substring/) | [Solution](/String/04_MinimumWindowSubstring/MinimumWindowSubstring.java)
-5. [in progress]
+4. [in progress]
+5. Minimum Window Substring
+[Question](https://leetcode.com/problems/minimum-window-substring/) | [Solution](/String/05_MinimumWindowSubstring/MinimumWindowSubstring.java)
 6. Valid Anagram:
 [Question](https://leetcode.com/problems/valid-anagram/) | [Solution](/String/06_ValidAnagram/ValidAnagram.java)
 7. Group Anagrams:
