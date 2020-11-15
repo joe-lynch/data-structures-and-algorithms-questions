@@ -11,7 +11,7 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 2. Best time to buy and sell stock: [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](/Arrays/02_BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java)
 3. Contains Duplicate:
 [Question](https://leetcode.com/problems/contains-duplicate/) | [Solution](/Arrays/03_ContainsDuplicate/ContainsDuplicate.java)
-4. Product of array except for self
+4. Product of array except for self:
 [Question](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](/Arrays/04_ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java)
 5. Maximum subarray:
 [Question](https://leetcode.com/problems/maximum-subarray/) | [Solution](/Arrays/05_MaximumSubarray/MaximumSubarray.java)
