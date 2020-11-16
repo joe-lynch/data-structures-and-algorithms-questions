@@ -1,6 +1,6 @@
 public class NumberOf1Bits {
-    private static final int BITMASK = 141;
-    private static final int BITMANIPULATIONTRICK = 448;
+    public static final int BITMASK = 0;
+    public static final int BITMANIPULATIONTRICK = 1;
 
     public int hammingWeight(int n, int TYPE){
         switch (TYPE){

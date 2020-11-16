@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/01_SumOfTwoIntegers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02_NumberOf1Bits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_Count1Bits" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
