@@ -75,7 +75,7 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](/Tree/04_MaximumPathSum/MaximumPathSum.java)
 5. Level Order Traversal:
 [Question](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](/Tree/05_LevelOrderTraversal/LevelOrderTraversal.java)
-6. Serialise and Deserialise Binary Tree
+6. Serialise and Deserialise Binary Tree:
 [Question](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](/Tree/TreeNode/TreeNode.java)
 
 ## String
