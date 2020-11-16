@@ -13,5 +13,6 @@ public class SumOfTwoIntegers {
     public static void main(String[] args) {
         SumOfTwoIntegers solution = new SumOfTwoIntegers();
         assert(solution.getSum(1, 2) == 3);
+        assert(solution.getSum(-2, 3) == 1);
     }
 }
