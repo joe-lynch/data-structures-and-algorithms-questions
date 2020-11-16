@@ -1,5 +1,5 @@
 # data structures and algorithms questions
-Worked solutions to various data structures and algorithms questions that I find interesting from leetcode and various sources.
+Worked solutions to various data structures and algorithms questions that I find interesting from leetcode and other sources.
 
 Each question is treated as a standalone class, except for the LinkedList questions that all use the class ListNode.
 Each file has a single class, with a main function that creates the object of that class, and calls methods to solve the problem.
@@ -11,7 +11,7 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 2. Best time to buy and sell stock: [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](/Arrays/02_BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java)
 3. Contains Duplicate:
 [Question](https://leetcode.com/problems/contains-duplicate/) | [Solution](/Arrays/03_ContainsDuplicate/ContainsDuplicate.java)
-4. Product of array except for self
+4. Product of array except for self:
 [Question](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](/Arrays/04_ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.java)
 5. Maximum subarray:
 [Question](https://leetcode.com/problems/maximum-subarray/) | [Solution](/Arrays/05_MaximumSubarray/MaximumSubarray.java)
@@ -37,9 +37,12 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/linked-list-cycle/) | [Solution](/LinkedList/02_DetectCycleLinkedList/DetectCycleLinkedList.java)
 3. Merge two sorted linked lists:
 [Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](/LinkedList/03_MergeTwoSortedLinkedLists/MergeTwoSortedLists.java)
-4. [in progress]
+4. Merge K sorted linked lists:
+[Question](https://leetcode.com/problems/merge-k-sorted-lists/) | [in progress]
 5. Remove the nth node from the end of a linked list:
 [Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/LinkedList/05_RemoveNthNodeFromEndOfLinkedList/RemoveNthNodeFromEndOfLinkedList.java)
+6. Reorder List:
+[Question](https://leetcode.com/problems/reorder-list/) | [in progress]
 
 ## Dynamic Programming
 1. Climbing stairs:
@@ -54,8 +57,10 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 ## Graph
 1. Clone Graph:
 [Question](https://leetcode.com/problems/clone-graph/) | [Solution](/Graph/01_CloneGraph/CloneGraph.java)
-2. [in progress]
-3. [in progress]
+2. Course Schedule:
+[Question](https://leetcode.com/problems/course-schedule/) | [in progress]
+3. Pacific Atlantic Water Flow:
+[Question](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [in progress]
 4. Number of islands:
 [Question](https://leetcode.com/problems/number-of-islands/) | [Solution](/Graph/04_NumberOfIslands/NumberOfIslands.java)
 
@@ -72,8 +77,9 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Solution](/String/02_StringStack/StringStack.java)
 3. Longest Substring Without Repeating Characters:
 [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](/String/03_LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)
-4. [in progress]
-5. Minimum Window Substring
+4. Longest Repeating Character Replacement:
+[Question](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](/String/04_LongestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.java)
+5. Minimum Window Substring:
 [Question](https://leetcode.com/problems/minimum-window-substring/) | [Solution](/String/05_MinimumWindowSubstring/MinimumWindowSubstring.java)
 6. Valid Anagram:
 [Question](https://leetcode.com/problems/valid-anagram/) | [Solution](/String/06_ValidAnagram/ValidAnagram.java)
@@ -89,6 +95,5 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/palindromic-substrings/) | [Solution](/String/11_CountPalindromicSubstrings/CountPalindromicSubstrings.java)
 
 ## Sort
-1. Sorter class that provides various sorting methods for Contact objects\
-[Solution](/Sort/01_ContactSorter/)
+1. Sorter class that provides various sorting methods for objects of the Contact class: [Solution](/Sort/01_ContactSorter/)
 
