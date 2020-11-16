@@ -1,3 +1,5 @@
+import com.sun.source.tree.Tree;
+
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -5,7 +7,7 @@ public class SameTree {
     private static final int DFS = 0;
     private static final int BFS = 1;
 
-    private boolean isSameTree(TreeNode p, TreeNode q, int TYPE){
+    public boolean isSameTree(TreeNode p, TreeNode q, int TYPE){
         switch(TYPE){
             case DFS:
                 return isSameTreeDFS(p, q);
@@ -17,10 +19,12 @@ public class SameTree {
     }
 
     private boolean isSameTreeDFS(TreeNode p, TreeNode q) {
-        if(p == null && q == null)
+        if(p == null && q == null) {
             return true;
-        if(p == null || q == null)
+        }
+        if(p == null || q == null) {
             return false;
+        }
         return p.val == q.val && isSameTreeDFS(p.left, q.left) && isSameTreeDFS(p.right, q.right);
     }
 
