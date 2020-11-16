@@ -30,6 +30,10 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 12. Union of Arrays:
 [Question](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/) | [Solution](/Arrays/12_UnionOfArrays/FindUnion.java)
 
+## Binary
+1. Sum of Two Integers:
+[Question](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](Binary/01_SumOfTwoIntegers/SumOfTwoIntegers.java)
+
 ## Linked List
 1. Reverse linked list:
 [Question](https://leetcode.com/problems/reverse-linked-list/) | [Solution](/LinkedList/01_ReverseLinkedList/ReverseLinkedList.java)
