@@ -71,6 +71,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/same-tree/) | [Solution](/Tree/02_SameTree/SameTree.java)
 3. Invert Binary Tree:
 [Question](https://leetcode.com/problems/invert-binary-tree/) | [Solution](/Tree/03_InvertBinaryTree/InvertBinaryTree.java)
+4. Maximum Path Sum
+[Question](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](/Tree/04_MaximumPathSum/MaximumPathSum.java)
 
 ## String
 1. String Repeater:
