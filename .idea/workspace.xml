@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="added clone graph">
-      <change afterPath="$PROJECT_DIR$/Tree/04_MaximumPathSum/MaximumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/05_LevelOrderTraversal/LevelOrderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tree/Tree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Tree.iml" afterDir="false" />
     </list>
@@ -66,7 +66,7 @@
       <recent name="C:\Users\joerd\Documents\GitHub\leetcode-questions\Linked List\05_RemoveNthNodeFromEndOfLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumPathSum">
+  <component name="RunManager" selected="Application.LevelOrderTraversal">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
       <module name="Arrays" />
@@ -157,6 +157,14 @@
     </configuration>
     <configuration name="InvertBinaryTree" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="InvertBinaryTree" />
+      <module name="Tree" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LevelOrderTraversal" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LevelOrderTraversal" />
       <module name="Tree" />
       <option name="VM_PARAMETERS" value="-ea" />
       <method v="2">
@@ -383,6 +391,7 @@
       <item itemvalue="Application.ValidAnagram" />
       <item itemvalue="Application.MaximumPathSum" />
       <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.LevelOrderTraversal" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -402,7 +411,7 @@
       <workItem from="1605362101436" duration="22521000" />
       <workItem from="1605447862610" duration="6156000" />
       <workItem from="1605461857676" duration="2643000" />
-      <workItem from="1605534513337" duration="10234000" />
+      <workItem from="1605534513337" duration="11495000" />
     </task>
     <task id="LOCAL-00001" summary="added clone graph">
       <created>1605366464997</created>
@@ -430,10 +439,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1605462242754" />
-    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605546636765">
+    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605548111200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605546636765" />
+    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605548111200" />
     <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605099235807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -466,42 +475,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605535146454" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605546654058">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605548248095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605546654058" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605546654058">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605548248095" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605548248095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605546654058" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605546654058">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605548248095" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605548248095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605546654058" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605546654058">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605548248095" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605548248095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605546654058" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605542983618">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605548248095" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605548242923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605542983618" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1605542983618">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605548242923" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1605548242923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605542983618" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1605542983618">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605548242923" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1605548242923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605542983618" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1605542983618">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605548242923" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1605548242923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605542983618" />
-    <state x="277" y="55" key="SettingsEditor" timestamp="1605546380246">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605548242923" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1605547960154">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605546380246" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605547960154" />
     <state width="511" height="446" key="SwitcherDM" timestamp="1605540135334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -514,10 +523,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605534514991" />
-    <state x="567" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605536981428">
+    <state x="567" y="55" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605548083333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="567" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1605536981428" />
+    <state x="567" y="55" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1605548083333" />
     <state x="499" y="192" key="extract.method.dialog" timestamp="1605290776505">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -530,10 +539,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605537630060" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605546391212">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605547963915">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605546391212" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605547963915" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
