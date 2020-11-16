@@ -33,6 +33,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 ## Binary
 1. Sum of Two Integers:
 [Question](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](Binary/01_SumOfTwoIntegers/SumOfTwoIntegers.java)
+2. Number of 1 Bits:
+[Question](https://leetcode.com/problems/number-of-1-bits/) | [Solution](Binary/02_NumberOf1Bits/NumberOf1Bits.java)
 
 ## Linked List
 1. Reverse linked list:
