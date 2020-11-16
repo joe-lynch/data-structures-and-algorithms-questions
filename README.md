@@ -69,6 +69,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/Tree/01_MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)
 2. Same Tree:
 [Question](https://leetcode.com/problems/same-tree/) | [Solution](/Tree/02_SameTree/SameTree.java)
+3. Invert Binary Tree:
+[Question](https://leetcode.com/problems/invert-binary-tree/) | [Solution](/Tree/03_InvertBinaryTree/InvertBinaryTree.java)
 
 ## String
 1. String Repeater:
