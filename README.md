@@ -79,6 +79,15 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](/Tree/06_LevelOrderTraversal/LevelOrderTraversal.java)
 7. Subtree of another Tree:
 [Question](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](/Tree/07_SubtreeOfAnotherTree/SubtreeOfAnotherTree.java)
+8. Construct Binary Tree from Preorder and Inorder Traversal:
+[Question](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [in progress]
+9. Validate Binary Search Tree:
+[Question](https://leetcode.com/problems/validate-binary-search-tree/) | [in progress]
+10. Kth Smallest Element in a BST:
+[Question](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [in progress]
+11. Lowest Common Ancestor of a BST:
+[Question](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](/Tree/11_LowestCommonAncestorOfBST/LowestCommonAncestorOfBST.java)
+
 
 ## String
 1. String Repeater:
