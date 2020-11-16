@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/05_MaximumPathSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06_LevelOrderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/07_SubtreeOfAnotherTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_LowestCommonAncestorOfBST" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
