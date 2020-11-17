@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/02_NumberOf1Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03_Count1Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04_MissingNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05_ReverseBits" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
