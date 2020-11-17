@@ -17,7 +17,7 @@ public class Count1Bits {
             case POPCOUNT:
                 return countBitsPopCount(num);
             default:
-                throw new IllegalArgumentException("TYPE must be value 0 or 1 or 2.");
+                throw new IllegalArgumentException("TYPE must be value 0 or 1 or 2 or 3.");
         }
     }
 

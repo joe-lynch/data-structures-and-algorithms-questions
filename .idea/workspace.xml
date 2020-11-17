@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="added clone graph">
-      <change afterPath="$PROJECT_DIR$/Binary/03_Count1Bits/Count1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary/04_MissingNumber/MissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary/02_NumberOf1Bits/NumberOf1Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary/02_NumberOf1Bits/NumberOf1Bits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary/03_Count1Bits/Count1Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary/03_Count1Bits/Count1Bits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binary/Binary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Binary/Binary.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
       <recent name="C:\Users\joerd\Documents\GitHub\leetcode-questions\Linked List\05_RemoveNthNodeFromEndOfLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Count1Bits">
+  <component name="RunManager" selected="Application.MissingNumber">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
       <module name="Arrays" />
@@ -279,6 +279,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MissingNumber" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MissingNumber" />
+      <module name="Binary" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberOf1Bits" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberOf1Bits" />
       <module name="Binary" />
@@ -440,6 +448,7 @@
       <item itemvalue="Application.LowestCommonAncestorOfBST" />
       <item itemvalue="Application.SumOfTwoIntegers" />
       <item itemvalue="Application.NumberOf1Bits" />
+      <item itemvalue="Application.MissingNumber" />
       <item itemvalue="Application.Count1Bits" />
     </list>
     <recent_temporary>
@@ -465,7 +474,8 @@
       <workItem from="1605362101436" duration="22521000" />
       <workItem from="1605447862610" duration="6156000" />
       <workItem from="1605461857676" duration="2643000" />
-      <workItem from="1605534513337" duration="21236000" />
+      <workItem from="1605534513337" duration="21586000" />
+      <workItem from="1605576776261" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="added clone graph">
       <created>1605366464997</created>
@@ -489,14 +499,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="71" key="#FindUnion/0.0.1536.824@0.0.1536.824" timestamp="1605289903816" />
-    <state x="361" y="71" key="#Project_Structure" timestamp="1605557791555">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1605576810178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1605557791555" />
-    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605562266867">
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1605576810178" />
+    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605577117894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605562266867" />
+    <state x="302" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605577117894" />
     <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605099235807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -529,22 +539,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605535146454" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605562568942">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605577137472">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605562568942" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605562568942">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605577137472" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605577137472">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605562568942" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605562568941">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605577137472" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605577137472">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605562568941" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605562568942">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605577137472" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605577137472">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605562568942" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605577137472" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605562369589">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -561,10 +571,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605562369589" />
-    <state x="277" y="55" key="SettingsEditor" timestamp="1605547960154">
+    <state x="277" y="55" key="SettingsEditor" timestamp="1605576836967">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605547960154" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605576836967" />
     <state width="511" height="446" key="SwitcherDM" timestamp="1605562045644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -573,10 +583,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605099981568" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1605534514991">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1605576796275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605534514991" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605576796275" />
     <state x="567" y="55" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605548083333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -593,9 +603,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605561538927" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605562231451">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605576864695">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605562231451" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605576864695" />
   </component>
 </project>
