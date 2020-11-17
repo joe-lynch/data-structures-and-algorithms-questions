@@ -39,6 +39,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/counting-bits/) | [Solution](/Binary/03_Count1Bits/Count1Bits.java)
 4. Missing Number:
 [Question](https://leetcode.com/problems/missing-number/) | [Solution](/Binary/04_MissingNumber/MissingNumber.java)
+5. Reverse Bits:
+[Question](https://leetcode.com/problems/reverse-bits/) | [Solution](/Binary/05_ReverseBits/ReverseBits.java)
 
 
 ## Linked List
