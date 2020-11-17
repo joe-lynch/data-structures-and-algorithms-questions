@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="added clone graph">
-      <change afterPath="$PROJECT_DIR$/Binary/05_ReverseBits/ReverseBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary/Binary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Binary/Binary.iml" afterDir="false" />
-    </list>
+    <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="added clone graph" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -478,7 +474,7 @@
       <workItem from="1605447862610" duration="6156000" />
       <workItem from="1605461857676" duration="2643000" />
       <workItem from="1605534513337" duration="21586000" />
-      <workItem from="1605576776261" duration="2772000" />
+      <workItem from="1605576776261" duration="3112000" />
     </task>
     <task id="LOCAL-00001" summary="added clone graph">
       <created>1605366464997</created>
