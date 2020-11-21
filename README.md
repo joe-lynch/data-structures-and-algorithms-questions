@@ -130,7 +130,7 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 11. Count Palindromic Substrings:
 [Question](https://leetcode.com/problems/palindromic-substrings/) | [Solution](/String/11_CountPalindromicSubstrings/CountPalindromicSubstrings.java)
 12. Generate a String With Odd Character Counts
-[Question](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](/String/12_GenerateStringWithOddCharacterCounts/GenerateStringWithOddCharacterCounts.java)
+[Question](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](/String/12_GenerateStringWithOddCharacterCounts/)
 
 ## Sort
 1. Sorter class that provides various sorting methods for objects of the Contact class: [Solution](/Sort/01_ContactSorter/)
