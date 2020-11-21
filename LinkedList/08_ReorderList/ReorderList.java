@@ -3,6 +3,9 @@ import java.util.Arrays;
 public class ReorderList {
 
     public void reorderList(ListNode head){
+        if(head == null)
+            return;
+
         ListNode fast = head;
         ListNode slow = head;
 
@@ -13,21 +16,19 @@ public class ReorderList {
         }
 
         // reverse second half of linked list
-        ListNode snd = slow;
-        ListNode tmp;
-        ListNode prev = null;
-        while(snd != null){
-            tmp = snd.next;
-            snd.next = prev;
-            prev = snd;
-            snd = tmp;
+        ListNode prev = null, curr = slow, tmp;
+        while(curr != null){
+            tmp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = tmp;
         }
 
         // merge
         ListNode first = head, second = prev;
         while(second.next != null){
             tmp = first.next;
-            first.next = prev;
+            first.next = second;
             first = tmp;
 
             tmp = second.next;
