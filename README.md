@@ -54,7 +54,11 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/merge-k-sorted-lists/) | [in progress]
 5. Remove the nth node from the end of a linked list:
 [Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/LinkedList/05_RemoveNthNodeFromEndOfLinkedList/RemoveNthNodeFromEndOfLinkedList.java)
-6. Reorder List:
+6. Singly Linked List:
+[Solution](/LinkedList/06_SinglyLinkedList/LinkedList.java)
+7. Doubly Linked List:
+[Solution](/LinkedList/07_DoublyLinkedList/DoublyLinkedList.java)
+8. Reorder List:
 [Question](https://leetcode.com/problems/reorder-list/) | [in progress]
 
 ## Dynamic Programming
