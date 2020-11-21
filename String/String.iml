@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/05_MinimumWindowSubstring" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04_LongestRepeatingCharacterReplacement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12_GenerateStringWithOddCharacterCounts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13_MinimumDeletionCostToAvoidRepeatingLetters" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
