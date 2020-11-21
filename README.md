@@ -131,6 +131,8 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 [Question](https://leetcode.com/problems/palindromic-substrings/) | [Solution](/String/11_CountPalindromicSubstrings/CountPalindromicSubstrings.java)
 12. Generate a String With Odd Character Counts:
 [Question](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](/String/12_GenerateStringWithOddCharacterCounts/GenerateStringWithOddCharacterCounts.java)
+13. Minimum Deletion Cost to Avoid Repeating Letters:
+[Question](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [Solution](/String/13_MinimumDeletionCostToAvoidRepeatingLetters/MinimumDeletionCostToAvoidRepeatingLetters.java)
 
 ## Sort
 1. Sorter class that provides various sorting methods for objects of the Contact class: [Solution](/Sort/01_ContactSorter/)
