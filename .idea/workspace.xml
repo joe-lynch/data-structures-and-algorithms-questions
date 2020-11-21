@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a95f955-ef45-4415-9e71-c2c5ffb238d6" name="Default Changelist" comment="added clone graph">
-      <change afterPath="$PROJECT_DIR$/String/12_GenerateStringWithOddCharacterCount/GenerateStringWithOddCharacterCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/String.iml" beforeDir="false" afterPath="$PROJECT_DIR$/String/String.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Linked List/ReorderList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Linked List/ReorderList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/12_GenerateStringWithOddCharacterCount/GenerateStringWithOddCharacterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/12_GenerateStringWithOddCharacterCounts/GenerateStringWithOddCharacterCount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -506,7 +503,7 @@
       <workItem from="1605576776261" duration="3290000" />
       <workItem from="1605620584614" duration="151000" />
       <workItem from="1605915486379" duration="1601000" />
-      <workItem from="1605965280975" duration="3145000" />
+      <workItem from="1605965280975" duration="3429000" />
     </task>
     <task id="LOCAL-00001" summary="added clone graph">
       <created>1605366464997</created>
