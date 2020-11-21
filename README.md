@@ -59,7 +59,7 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 7. Doubly Linked List:
 [Solution](/LinkedList/07_DoublyLinkedList/DoublyLinkedList.java)
 8. Reorder List:
-[Question](https://leetcode.com/problems/reorder-list/) | [in progress]
+[Question](https://leetcode.com/problems/reorder-list/) | [Solution](/LinkedList/08_ReorderList/ReorderList.java)
 
 ## Dynamic Programming
 1. Climbing stairs:
