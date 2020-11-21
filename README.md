@@ -42,25 +42,6 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 5. Reverse Bits:
 [Question](https://leetcode.com/problems/reverse-bits/) | [Solution](/Binary/05_ReverseBits/ReverseBits.java)
 
-
-## Linked List
-1. Reverse linked list:
-[Question](https://leetcode.com/problems/reverse-linked-list/) | [Solution](/LinkedList/01_ReverseLinkedList/ReverseLinkedList.java)
-2. Detect a cycle in a linked list:
-[Question](https://leetcode.com/problems/linked-list-cycle/) | [Solution](/LinkedList/02_DetectCycleLinkedList/DetectCycleLinkedList.java)
-3. Merge two sorted linked lists:
-[Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](/LinkedList/03_MergeTwoSortedLinkedLists/MergeTwoSortedLists.java)
-4. Merge K sorted linked lists:
-[Question](https://leetcode.com/problems/merge-k-sorted-lists/) | [in progress]
-5. Remove the nth node from the end of a linked list:
-[Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/LinkedList/05_RemoveNthNodeFromEndOfLinkedList/RemoveNthNodeFromEndOfLinkedList.java)
-6. Singly Linked List:
-[Solution](/LinkedList/06_SinglyLinkedList/LinkedList.java)
-7. Doubly Linked List:
-[Solution](/LinkedList/07_DoublyLinkedList/DoublyLinkedList.java)
-8. Reorder List:
-[Question](https://leetcode.com/problems/reorder-list/) | [Solution](/LinkedList/08_ReorderList/ReorderList.java)
-
 ## Dynamic Programming
 1. Climbing stairs:
 [Question](https://leetcode.com/problems/climbing-stairs/) | [Solution](/DynamicProgramming/01_ClimbingStairs/ClimbingStairs.java)
@@ -81,30 +62,28 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 4. Number of islands:
 [Question](https://leetcode.com/problems/number-of-islands/) | [Solution](/Graph/04_NumberOfIslands/NumberOfIslands.java)
 
-## Tree
-1. Serialise and Deserialise Binary Tree:
-[Question](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](/Tree/01_TreeNode/TreeNode.java)
-2. Maximum Depth of Binary Tree:
-[Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/Tree/02_MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)
-3. Same Tree:
-[Question](https://leetcode.com/problems/same-tree/) | [Solution](/Tree/03_SameTree/SameTree.java)
-4. Invert Binary Tree:
-[Question](https://leetcode.com/problems/invert-binary-tree/) | [Solution](/Tree/04_InvertBinaryTree/InvertBinaryTree.java)
-5. Maximum Path Sum:
-[Question](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](/Tree/05_MaximumPathSum/MaximumPathSum.java)
-6. Level Order Traversal:
-[Question](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](/Tree/06_LevelOrderTraversal/LevelOrderTraversal.java)
-7. Subtree of another Tree:
-[Question](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](/Tree/07_SubtreeOfAnotherTree/SubtreeOfAnotherTree.java)
-8. Construct Binary Tree from Preorder and Inorder Traversal:
-[Question](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [in progress]
-9. Validate Binary Search Tree:
-[Question](https://leetcode.com/problems/validate-binary-search-tree/) | [in progress]
-10. Kth Smallest Element in a BST:
-[Question](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [in progress]
-11. Lowest Common Ancestor of a BST:
-[Question](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](/Tree/11_LowestCommonAncestorOfBST/LowestCommonAncestorOfBST.java)
+## Interval
 
+## Linked List
+1. Reverse linked list:
+[Question](https://leetcode.com/problems/reverse-linked-list/) | [Solution](/LinkedList/01_ReverseLinkedList/ReverseLinkedList.java)
+2. Detect a cycle in a linked list:
+[Question](https://leetcode.com/problems/linked-list-cycle/) | [Solution](/LinkedList/02_DetectCycleLinkedList/DetectCycleLinkedList.java)
+3. Merge two sorted linked lists:
+[Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](/LinkedList/03_MergeTwoSortedLinkedLists/MergeTwoSortedLists.java)
+4. Merge K sorted linked lists:
+[Question](https://leetcode.com/problems/merge-k-sorted-lists/) | [in progress]
+5. Remove the nth node from the end of a linked list:
+[Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/LinkedList/05_RemoveNthNodeFromEndOfLinkedList/RemoveNthNodeFromEndOfLinkedList.java)
+6. Singly Linked List:
+[Solution](/LinkedList/06_SinglyLinkedList/LinkedList.java)
+7. Doubly Linked List:
+[Solution](/LinkedList/07_DoublyLinkedList/DoublyLinkedList.java)
+8. Reorder List:
+[Question](https://leetcode.com/problems/reorder-list/) | [Solution](/LinkedList/08_ReorderList/ReorderList.java)
+
+## Sort
+1. Sorter class that provides various sorting methods for objects of the Contact class: [Solution](/Sort/01_ContactSorter/)
 
 ## String
 1. String Repeater:
@@ -134,5 +113,26 @@ The keyword `assert` is used, this will throw an error if the solution returned 
 13. Minimum Deletion Cost to Avoid Repeating Letters:
 [Question](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [Solution](/String/13_MinimumDeletionCostToAvoidRepeatingLetters/MinimumDeletionCostToAvoidRepeatingLetters.java)
 
-## Sort
-1. Sorter class that provides various sorting methods for objects of the Contact class: [Solution](/Sort/01_ContactSorter/)
+## Tree
+1. Serialise and Deserialise Binary Tree:
+[Question](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](/Tree/01_TreeNode/TreeNode.java)
+2. Maximum Depth of Binary Tree:
+[Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/Tree/02_MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)
+3. Same Tree:
+[Question](https://leetcode.com/problems/same-tree/) | [Solution](/Tree/03_SameTree/SameTree.java)
+4. Invert Binary Tree:
+[Question](https://leetcode.com/problems/invert-binary-tree/) | [Solution](/Tree/04_InvertBinaryTree/InvertBinaryTree.java)
+5. Maximum Path Sum:
+[Question](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](/Tree/05_MaximumPathSum/MaximumPathSum.java)
+6. Level Order Traversal:
+[Question](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](/Tree/06_LevelOrderTraversal/LevelOrderTraversal.java)
+7. Subtree of another Tree:
+[Question](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](/Tree/07_SubtreeOfAnotherTree/SubtreeOfAnotherTree.java)
+8. Construct Binary Tree from Preorder and Inorder Traversal:
+[Question](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [in progress]
+9. Validate Binary Search Tree:
+[Question](https://leetcode.com/problems/validate-binary-search-tree/) | [in progress]
+10. Kth Smallest Element in a BST:
+[Question](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [in progress]
+11. Lowest Common Ancestor of a BST:
+[Question](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](/Tree/11_LowestCommonAncestorOfBST/LowestCommonAncestorOfBST.java)
