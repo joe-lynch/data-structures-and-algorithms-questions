@@ -1,4 +1,4 @@
-public class GenerateStringWithOddCharacterCount {
+public class GenerateStringWithOddCharacterCounts {
 
     public String generateTheString(int N){
         StringBuilder sb = new StringBuilder();
@@ -14,7 +14,7 @@ public class GenerateStringWithOddCharacterCount {
     }
 
     public static void main(String[] args) {
-        GenerateStringWithOddCharacterCount solution = new GenerateStringWithOddCharacterCount();
+        GenerateStringWithOddCharacterCounts solution = new GenerateStringWithOddCharacterCounts();
         assert(solution.generateTheString(4).equals("aaab"));
         assert(solution.generateTheString(2).equals("ab"));
         assert(solution.generateTheString(7).equals("aaaaaaa"));
